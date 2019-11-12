@@ -1,4 +1,4 @@
-# AbbRobotControl
+# abbRobotJog
 1.控制机械臂程序
   读Eventlog
   单轴控制机械臂运动
